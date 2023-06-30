@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23b7f9d6-e7f8-46cd-9ee8-406fe175d722" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose-vertx-test.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/CreateWordsTable.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/domain/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/domain/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/dto/FindWordDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/operators/StringOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/operators/WordFinderOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/operators/WordListOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vertxtexttest/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +191,7 @@
       <workItem from="1686753583488" duration="7118000" />
       <workItem from="1686886252091" duration="396000" />
       <workItem from="1688096661197" duration="6104000" />
-      <workItem from="1688135949754" duration="2698000" />
+      <workItem from="1688135949754" duration="3421000" />
     </task>
     <servers />
   </component>

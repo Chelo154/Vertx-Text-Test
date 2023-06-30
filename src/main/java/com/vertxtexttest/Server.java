@@ -56,7 +56,7 @@ public class Server extends AbstractVerticle {
                                 context
                                         .response()
                                         .putHeader("content-type","application/json")
-                                        .end(Json.encodePrettily(Map.of("id", result.result())));
+                                        .end(Json.encodePrettily(Map.of("wordListId", result.result())));
 
                             });
                         }
